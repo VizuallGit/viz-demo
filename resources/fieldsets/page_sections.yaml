@@ -1,0 +1,12 @@
+title: 'Page sections'
+fields:
+  -
+    handle: page_sections
+    field:
+      type: replicator
+      display: 'Page sections'
+      collapse: accordion
+      sets:
+        items:
+          display: Items
+          sets: {}
